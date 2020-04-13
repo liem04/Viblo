@@ -1,0 +1,12 @@
+/vendor/
+/.env
+*.deb
+/.dhp
+
+### JetBrains
+/.idea/
+.idea/tasks.xml
+.idea/dictionaries
+*.iws
+/log/
+.DS_Store
